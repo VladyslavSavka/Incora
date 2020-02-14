@@ -1,0 +1,16 @@
+.comment-item {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: rgb(105, 247, 247);
+    margin-top: 10px;
+}
+
+.comment-item h3{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.comment-email{
+    margin: 0px;
+}

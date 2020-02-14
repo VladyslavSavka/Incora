@@ -1,0 +1,28 @@
+.user-list-item{
+    font-size: 1.3rem;
+    margin: 20px 0px;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 350px auto;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-posts{
+    display: flex;
+    background-color: #fcec45;
+    border: 2px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+}
+
+.link-posts:hover {
+    cursor: pointer;
+    background-color: crimson;
+}
